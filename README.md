@@ -217,10 +217,6 @@ We welcome contributions to improve the Library Management System! Please follow
 - Write meaningful commit messages
 - Test your changes thoroughly before submission
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 **Empowering education through digital resource sharing**
